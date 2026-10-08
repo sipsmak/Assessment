@@ -1,0 +1,12 @@
+check,row_count
+raw_rows,305
+raw_duplicate_booking_id_rows,45
+current_rows,282
+current_duplicate_booking_ids,0
+reject_rows,8
+unknown_property_rows,1
+non_positive_or_missing_revenue_rows,3
+invalid_date_range_rows,2
+missing_fx_rows,1
+implausible_guest_count_rows,1
+conflicting_latest_timestamp_rows,1
