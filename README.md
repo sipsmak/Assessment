@@ -1,4 +1,4 @@
-# Flux Data Engineer Assessment
+# Data Engineer Assessment
 
 ## Overview
 This project builds a re-runnable local pipeline for the two booking batches, produces a current-state analysis-ready dataset, quarantines bad records, performs point-in-time FX enrichment, and supplies the requested BigQuery-compatible SQL and production write-up.
